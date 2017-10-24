@@ -1,0 +1,4 @@
+SCALA_HOME="$HOME/opt/scala"
+PATH=$PATH:$SCALA_HOME/bin
+
+export SCALA_HOME PATH

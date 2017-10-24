@@ -1,0 +1,5 @@
+FLINK_HOME=$HOME/opt/flink
+
+PATH=$PATH:$FLINK_HOME/bin
+
+export FLINK_HOME PATH

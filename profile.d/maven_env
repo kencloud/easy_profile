@@ -1,0 +1,6 @@
+MVN_HOME="$HOME/opt/maven"
+
+PATH=$PATH:$MVN_HOME/bin
+
+export MVN_HOME PATH
+

@@ -1,0 +1,7 @@
+DIR=$HOME/etc/profile.d
+ME=_set_env
+
+for F in $(ls $DIR | grep -v $ME); do
+  . $DIR/$F
+done
+
