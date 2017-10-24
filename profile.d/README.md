@@ -1,4 +1,4 @@
-# Profile made easy
+# Linux shell profile made easy
 
 Effective manage Linux shell profile for sh, bash.
 
