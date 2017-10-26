@@ -8,4 +8,4 @@ Method:
 - in ```_env``` file, specify app home dir, add bin dir to PATH
 - ```_set_env``` will load env files in this dir
 - in ```$HOME/.profile```, source this ```_set_env``` file
-- move unused env file to ```.backup```
+- move unused ```_env``` file to ```.backup```
